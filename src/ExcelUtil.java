@@ -8,5 +8,8 @@ public class ExcelUtil {
         // write to cell
     }
 
+    public void method3(){
+        // does trhe thing
+    }
 
 }
