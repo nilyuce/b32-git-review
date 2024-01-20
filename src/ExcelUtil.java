@@ -4,4 +4,9 @@ public class ExcelUtil {
         // read cell
     }
 
+    public void method2(){
+        // write to cell
+    }
+
+
 }
